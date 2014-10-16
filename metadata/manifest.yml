@@ -5,7 +5,7 @@ Description: "Perl is a general-purpose server-side scripting language originall
 Version: '5.10'
 License: "GPL v2"
 License-Url: http://dev.perl.org/licenses/
-Vendor: perl.org
+Vendor: redhat
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: wsuntest
 Categories:
